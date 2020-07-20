@@ -1,4 +1,6 @@
 # AngularExample
+This app is an implementation of the tutorial available at the following link:
+https://www.freecodecamp.org/news/angular-8-tutorial-in-easy-steps/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
